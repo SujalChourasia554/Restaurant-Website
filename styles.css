@@ -348,35 +348,11 @@ span {
     justify-content: space-around;
 }
 
-.cards1 {
+.carde {
     height: 370px;
     width: 290px;
     border-radius: 10px;
     background-color: rgba(255, 255, 255, 0.888);
-
-}
-
-.cards2 {
-    height: 370px;
-    width: 290px;
-    background-color: rgba(255, 255, 255, 0.888);
-    border-radius: 10px;
-
-}
-
-.cards3 {
-    height: 370px;
-    width: 290px;
-    background-color: rgba(255, 255, 255, 0.888);
-    border-radius: 10px;
-
-}
-
-.cards4 {
-    height: 370px;
-    width: 290px;
-    background-color: rgba(255, 255, 255, 0.888);
-    border-radius: 10px;
 
 }
 
@@ -393,6 +369,7 @@ img {
     width: 100%;
     border-radius: 10px;
 }
+
 
 #card_content {
     margin: 10px;
